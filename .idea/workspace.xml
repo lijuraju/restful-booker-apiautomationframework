@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfe50066-f790-4d74-91e9-02f7201a977c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/APIAutomation/endpoints/APIConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/APIAutomation/modules/PayloadManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/APIAutomation/pojos/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/APIAutomation/pojos/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/APIAutomation/pojos/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/APIAutomation/asserts/AssertActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/APIAutomation/baseTests/BaseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/APIAutomation/listners/RetryListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/APIAutomation/tests/integration/sample/TestIntegrationSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/APIAutomation/utils/CommonActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/APIAutomation/utils/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/TestData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-prod-env.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-qa-env.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2q9fWfOimLDUn2Yn88rV2g6PCsx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.test.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Personal/restful-booker-apiautomationfrmk/testng-qa-env.xml.executor": "Run",
+    "TestNG.test.test_Pgm.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Personal/restful-booker-apiautomationfrmk",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Personal\restful-booker-apiautomationfrmk" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Personal/restful-booker-apiautomationfrmk/testng-qa-env.xml">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.APIAutomation.test" />
+      <module name="restful-booker-apiautomationfrmk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.APIAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Personal/restful-booker-apiautomationfrmk/testng-qa-env.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restful-booker-apiautomationfrmk" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-qa-env.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test_Pgm" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restful-booker-apiautomationfrmk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.APIAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.APIAutomation" />
+      <option name="MAIN_CLASS_NAME" value="org.APIAutomation.test" />
+      <option name="METHOD_NAME" value="test_Pgm" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Personal/restful-booker-apiautomationfrmk/testng-qa-env.xml" />
+        <item itemvalue="TestNG.test.test_Pgm" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfe50066-f790-4d74-91e9-02f7201a977c" name="Changes" comment="" />
+      <created>1734079747556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734079747556</updated>
+    </task>
+    <servers />
+  </component>
+</project>
